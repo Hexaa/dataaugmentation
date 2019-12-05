@@ -1,0 +1,6 @@
+[submodule "AutoAugment"]
+	path = AutoAugment
+	url = https://github.com/DeepVoltaire/AutoAugment
+[submodule "pytorchAutoAugment"]
+	path = pytorchAutoAugment
+	url = https://github.com/4uiiurz1/pytorch-auto-augment

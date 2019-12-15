@@ -1,4 +1,4 @@
-# Data augmentation Project
+# Data augmentation project
 
 This is the project repository for the deeplearning seminar 2019/2020 for INFM, HS Offenburg.
 The topic of my seminar project and talk is "data augmentation".
